@@ -1,0 +1,13 @@
+git 
+maven
+jenkins
+sonarube
+jfrog
+docker
+kubernetes
+aws
+terraform
+shellscript
+yaml
+xml
+jenkins DSL & Groovy
